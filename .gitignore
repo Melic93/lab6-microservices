@@ -21,3 +21,15 @@ gradle-app.setting
 *.iml
 *.ipr
 *.iws
+
+web/bin
+accounts/bin
+.project
+registration/.classpath
+registration/.settings/
+web/.classpath
+web/.project
+web/.settings/
+registration/bin/
+.settings
+accounts/.classpath
